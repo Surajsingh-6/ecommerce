@@ -12,3 +12,9 @@ export const fontBig = localFont({
     variable: '--font-big',
     display: 'swap',
 });
+
+export const modern = localFont({
+    src: './fonts/PlaywriteES-VariableFont_wght.ttf',
+    variable: '--font-modern',
+    display: 'swap',
+});

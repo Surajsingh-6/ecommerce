@@ -7,6 +7,9 @@ body {
   box-sizing: border-box;
 }
 
+.fmodern{
+  font-family: var(--font-modern);
+}
 .fbig {
   font-family: var(--font-big);
 }
