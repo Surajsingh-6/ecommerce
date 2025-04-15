@@ -25,7 +25,7 @@ function Hero() {
                         </div>
                   
                     <div className="w-[200px]">
-                        <Buttons text="Download App" />
+                        <Buttons text="Locate Shop" />
                     </div>
                 </div>
             </div>

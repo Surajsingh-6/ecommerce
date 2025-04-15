@@ -11,7 +11,7 @@ return (
             <div className='flex flex-wrap justify-center mt-10'>
                 <ExploreCard title='Catering Service' description='We provide luxury catering services while ensuring hygiene.' image='icon1.png' buttonText='View Services' />
                 <ExploreCard title='Special Events' description='Plan and book your special events with us for unforgettable experiences.' image='icon2.png' buttonText='Book Events' />
-                <ExploreCard title='The Food' description='Explore our delicious and diverse food options crafted to perfection.' image='icon3.png' buttonText='View Food' />
+                <ExploreCard title='The Food' description='Explore our delicious and diverse food options crafted to perfection.' image='icon3.png' buttonText='View Services' />
             </div>
     </div>
 )

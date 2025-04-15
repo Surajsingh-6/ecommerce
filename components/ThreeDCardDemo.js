@@ -31,7 +31,7 @@ return (
                 <CardItem
                     translateZ={20}
                     className="px-4 py-2 rounded-xl text-lg font-bold dark:text-white">
-                    $59.99
+                    ₹199
                 </CardItem>
                 <CardItem
                     translateZ={20}
