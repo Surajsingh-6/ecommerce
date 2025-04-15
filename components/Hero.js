@@ -9,7 +9,7 @@ function Hero() {
     return (
         <div className="flex justify-between items-center mt-10 p-10 h-[80vh]">
             <div className="m-auto">
-                <h1 className={` text-7xl leading-tight`}>
+                <h1 className={` text-7xl leading-tight fbig`}>
                     Alowishus <br />
                     Delicious <br />
                     <div className="flex ">Coffee & Cafe. <br /> <img src="cafe.png" className="h-20" alt="" /></div>

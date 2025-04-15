@@ -3,9 +3,9 @@ import ExploreCard from './ExploreCard'
 
 function Explore() {
 return (
-    <div className='h-screen w-full'>
+    <div className='h-screen w-full '>
             <div className='m-auto text-center mt-10'>
-                    <h2 className='text-5xl font-semibold font-mono'>Explore Our Alowishus</h2>
+                    <h2 className='text-5xl font-semibold '>Explore Our Alowishus</h2>
                     <p className='text-lg m-4 leading-6 text-[#434343]'>Discover a wide variety of products tailored to your needs. <br /> Dive in and find something special today!</p>
             </div>
             <div className='flex flex-wrap justify-center mt-10'>

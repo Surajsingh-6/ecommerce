@@ -1,5 +1,5 @@
 import "./globals.css"
-
+import { fontBig,fontSmall } from "./Font";
 
 export const metadata = {
   title: "SHOP",
@@ -10,7 +10,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={` `}
+        className={`${fontBig.variable} ${fontSmall.variable} fsmall `}
       >
         {children}
       </body>

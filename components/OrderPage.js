@@ -8,7 +8,7 @@ function OrderPage() {
                 <img src="/coffee-mid.png" alt="Coffee" className=" aspect-auto w-5/6 " />
             </div>
             <div className="w-1/2 h-full flex flex-col justify-center items-start px-12">
-                <h2 className="text-5xl font-bold text-gray-800 mb-4">
+                <h2 className="text-5xl font-bold text-gray-800 mb-4 ">
                     Order Your <br /> Favourite Coffee
                 </h2>
                 <p className="text-md font-semibold text-gray-600 mb-6">

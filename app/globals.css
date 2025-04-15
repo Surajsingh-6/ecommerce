@@ -7,6 +7,13 @@ body {
   box-sizing: border-box;
 }
 
+.fbig {
+  font-family: var(--font-big);
+}
+
+.fsmall {
+  font-family: var(--font-small);
+}
 
 
 

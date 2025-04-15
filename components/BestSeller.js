@@ -1,11 +1,12 @@
 import React from 'react'
 import { ThreeDCardDemo } from './ThreeDCardDemo'
-
+import { fontBig } from '@/app/Font'
+import '@/app/globals.css'
 function BestSeller() {
   return (
     <div className='min-h-screen w-full'>
                 <div className='m-auto text-center mt-10'>
-                        <h2 className='text-7xl font-semibold font-mono'>Best Sellers</h2>
+                        <h2 className={`text-7xl font-semibold fbig  `}>Best Sellers</h2>
                         <p className='text-2xl m-4 leading-6 text-[#434343]'>Discover our top-rated products loved by customers. <br />Explore the collection and find your next favorite.</p>
                 </div>
                 <div className='flex flex-wrap justify-center gap-20'>
